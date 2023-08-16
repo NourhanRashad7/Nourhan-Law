@@ -1,0 +1,40 @@
+header{
+    min-height: 100vh;
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7))
+    ,url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+body{
+    font-family: 'Noto Serif Vithkuqi', serif;
+}
+.law p, .law h1{
+    margin-left: 50px;
+    text-align:left;
+}
+.law button{
+    width: 300px;
+    border-radius: 3px;
+    margin-left: 100px;   
+} 
+.law2 h2, .law2 p{
+
+    text-align:center;
+    padding-right: 150px;
+}
+hr{
+    color: white;
+    width: 250px;
+    margin-left: 150px;
+}
+.opinions img{
+    height: 60px;
+    border-radius: 20%;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+.opinions button{
+    padding: 150px;
+}
